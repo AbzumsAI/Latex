@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  1 MAR 2025 06:23
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.11.6)  1 MAR 2025 06:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1131,7 +1131,7 @@ age=dflt;script=arab;mapping=persian-tex-text;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
-(Font)              scaled to size 11.99997pt on input line 19.
+(Font)              scaled to size 11.99997pt on input line 14.
 
 Package fontspec Info: Font family 'XBNiloofar.ttf(1)' created for font
 (fontspec)             'XBNiloofar.ttf' with options
@@ -1151,7 +1151,7 @@ age=dflt;mapping=persian-tex-text;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 
 Package xepersian-mathdigitspec Info: DefiningthedefaultPersianmathdigitsfontas
-'XBNiloofar.ttf' on input line 22.
+'XBNiloofar.ttf' on input line 17.
 \symOPERATORS=\mathgroup6
 \symnew@mathbf@font@digits=\mathgroup7
 \symnew@mathit@font@digits=\mathgroup8
@@ -1344,10 +1344,10 @@ Package rerunfilecheck Info: File `HW.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 29660 strings out of 409722
- 570026 string characters out of 5780279
+ 29662 strings out of 409722
+ 570078 string characters out of 5780279
  1931164 words of memory out of 5000000
- 51081 multiletter control sequences out of 15000+600000
+ 51083 multiletter control sequences out of 15000+600000
  560424 words of font info for 82 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  101i,5n,113p,1324b,488s stack positions out of 10000i,1000n,20000p,200000b,200000s
