@@ -31,3 +31,12 @@ Run XeLaTeX again if references or page numbers look stale.
 ## Editing Notes
 
 Add new questions in `Template/questions`, then include them from `Template/HW.tex`. Keep generated build files out of new commits unless the PDF itself needs to be updated.
+
+## Extra Notes
+
+- `Template/README.md` explains the template folder.
+- `docs/template-map.md` maps the source folders.
+- `docs/build-flow.md` shows the build command I use most.
+- `docs/new-homework-flow.md` explains how I start a new sheet.
+- `scripts/build-template.ps1` builds the sample PDF from the repo root.
+- `scripts/check-template.ps1` checks the template source before a build.
